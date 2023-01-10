@@ -11,7 +11,7 @@
   - **SGE:** Business Management System subject. Includes programs written in Python and edited in a Jupyter Notebook
   - **SGE_Odoo:** related on the same subject, includes the development of modules to Odoo written in Python
   - **PMD:** Mobile Device Programming subject. Includes projects made with Android Studio
-  - **PSP:** programming of services and processes subject. Includes projects in Java that uses multithreaded programming
+  - **PSP:** Programming of Services and Processes subject. Includes projects in Java that uses multithreaded programming
 <!--
 **AAusa/AAusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
